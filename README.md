@@ -8,7 +8,7 @@ ShopEase is a modern, responsive e-commerce website built using **HTML5, CSS3, B
 
 ## 📂 GitHub Repository
 
-🔗 
+🔗 https://github.com/precymichel/ecommerce-website
 
 ---
 
