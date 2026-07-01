@@ -125,27 +125,6 @@ No additional installation or dependencies are required.
 - Clean Code Structure
 - Beginner-Friendly Project
 
----
-
-## 📷 Screenshots
-
-Add screenshots of your website here.
-
-Example:
-
-```
-screenshots/
-│
-├── home.png
-├── shop.png
-├── product.png
-├── cart.png
-├── checkout.png
-└── contact.png
-```
-
----
-
 ## 🔮 Future Enhancements
 
 - ❤️ Wishlist Feature
