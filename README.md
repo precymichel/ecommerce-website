@@ -1,3 +1,4 @@
+<img width="891" height="461" alt="Screenshot 2026-07-01 112527" src="https://github.com/user-attachments/assets/303a1a60-c31d-4536-9cd1-16bdc5b8e0e2" />
 # 🛒 ShopEase - Responsive E-Commerce Website
 
 ShopEase is a modern, responsive e-commerce website built using **HTML5, CSS3, Bootstrap 5, and JavaScript**. It provides a clean and user-friendly shopping experience with features such as product browsing, shopping cart management, user authentication pages, and checkout functionality.
